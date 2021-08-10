@@ -9,7 +9,7 @@ const config = {
       screenshot: 'on',
           viewport: { width: 1280, height: 720 },
               launchOptions: {
-              slowMo: 750,
+              slowMo: 100,
           },
     },
   };
